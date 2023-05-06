@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDT", "CDT\CDT.csproj", "{2066B826-769A-4271-B631-B14E63E35AC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClockReader", "Doctor\ClockReader.csproj", "{5FFAAE2A-0CD3-467C-BEC3-4E8A97085B8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2066B826-769A-4271-B631-B14E63E35AC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2066B826-769A-4271-B631-B14E63E35AC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2066B826-769A-4271-B631-B14E63E35AC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2066B826-769A-4271-B631-B14E63E35AC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FFAAE2A-0CD3-467C-BEC3-4E8A97085B8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FFAAE2A-0CD3-467C-BEC3-4E8A97085B8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FFAAE2A-0CD3-467C-BEC3-4E8A97085B8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FFAAE2A-0CD3-467C-BEC3-4E8A97085B8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
