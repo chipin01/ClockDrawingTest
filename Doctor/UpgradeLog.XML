@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Serialization">
+</Property><Property Name="Solution File" Value="C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\Serialization\Serialization.sln">
+</Property><Property Name="Date" Value="Monday, March 01, 2010">
+</Property><Property Name="Time" Value="14:48 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Serialization.sln" Description="File successfully backed up as C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\Serialization\Backup\Serialization.sln">
+</Event><Event ErrorLevel="0" Project="Serialization" Source="Serialization.csproj" Description="Project file successfully backed up as C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\Serialization\Backup\Serialization.csproj">
+</Event><Event ErrorLevel="0" Project="Serialization" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\Serialization\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Serialization" Source="Serialization.cs" Description="File successfully backed up as C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\Serialization\Backup\Serialization.cs">
+</Event><Event ErrorLevel="0" Project="Serialization" Source="App.ico" Description="File successfully backed up as C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\Serialization\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="Serialization" Source="Serialization.resx" Description="File successfully backed up as C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\Serialization\Backup\Serialization.resx">
+</Event><Event ErrorLevel="0" Project="Serialization" Source="Serialization.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Serialization" Source="Serialization.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Serialization.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Serialization.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Serialization" Source="Serialization.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

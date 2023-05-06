@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Serialization">
+</Property><Property Name="Solution File" Value="C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\SerializeMock\Serialization.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\SerializeMock\Serialization.suo">
+</Property><Property Name="Date" Value="Monday, August 30, 2010">
+</Property><Property Name="Time" Value="0:18 AM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Serialization.sln" Description="File successfully backed up as C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\SerializeMock\Backup1\Serialization.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Serialization.suo" Description="File successfully backed up as C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\SerializeMock\Backup1\Serialization.suo">
+</Event><Event ErrorLevel="0" Project="Serialization" Source="Serialization.csproj" Description="Project file successfully backed up as C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\SerializeMock\Backup1\Serialization.csproj">
+</Event><Event ErrorLevel="0" Project="Serialization" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\SerializeMock\Backup1\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Serialization" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\SerializeMock\Backup1\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Serialization" Source="Serialization.cs" Description="File successfully backed up as C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\SerializeMock\Backup1\Serialization.cs">
+</Event><Event ErrorLevel="0" Project="Serialization" Source="App.ico" Description="File successfully backed up as C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\SerializeMock\Backup1\App.ico">
+</Event><Event ErrorLevel="0" Project="Serialization" Source="Properties\Resources.resx" Description="File successfully backed up as C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\SerializeMock\Backup1\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Serialization" Source="Serialization.resx" Description="File successfully backed up as C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\SerializeMock\Backup1\Serialization.resx">
+</Event><Event ErrorLevel="1" Project="Serialization" Source="Serialization.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="Serialization" Source="Serialization.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Serialization" Source="Serialization.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Serialization.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Serialization.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Serialization" Source="Serialization.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

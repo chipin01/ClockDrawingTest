@@ -1,0 +1,120 @@
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\Serialization\bin\Debug\Serialization.exe
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\Serialization\bin\Debug\Serialization.pdb
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\Serialization\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\Serialization\obj\Debug\Serialization.SerializationForm.resources
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\Serialization\obj\Debug\Serialization.csproj.GenerateResource.Cache
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\Serialization\obj\Debug\Serialization.exe
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\Serialization\obj\Debug\Serialization.pdb
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\SerializeMock\obj\Debug\Serialization.exe
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\SerializeMock\obj\Debug\Serialization.pdb
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\SerializeMock\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\SerializeMock\obj\Debug\Serialization.SerializationForm.resources
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\SerializeMock\obj\Debug\Serialization.csproj.GenerateResource.Cache
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\SerializeMock\bin\Debug\Serialization.exe
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\SerializeMock\bin\Debug\Serialization.pdb
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\SerializeMock\obj\Debug\Serialization.Properties.Resources.resources
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\SerializeMock\obj\Debug\Serialization.exe
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\SerializeMock\obj\Debug\Serialization.pdb
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\SerializeMock\bin\Debug\Serialization.exe
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\SerializeMock\bin\Debug\Serialization.pdb
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\SerializeMock\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\SerializeMock\obj\Debug\Serialization.Properties.Resources.resources
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\SerializeMock\obj\Debug\Serialization.SerializationForm.resources
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\SerializeMock\obj\Debug\Serialization.csproj.GenerateResource.Cache
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\SerializeMock\obj\Debug\Serialization.exe
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\SerializeMock\obj\Debug\Serialization.pdb
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\SerializeMock\bin\Debug\Serialization.exe
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\SerializeMock\bin\Debug\Serialization.pdb
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\SerializeMock\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\SerializeMock\obj\Debug\Serialization.Properties.Resources.resources
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\SerializeMock\obj\Debug\Serialization.SerializationForm.resources
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\SerializeMock\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\SerializeMock\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\Doctor_App2\obj\Debug\Serialization.exe
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\Doctor_App2\obj\Debug\Serialization.pdb
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\Doctor_App2\bin\Debug\Serialization.exe
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\Doctor_App2\bin\Debug\Serialization.pdb
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\Doctor_App2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\Doctor_App2\obj\Debug\Serialization.Properties.Resources.resources
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\Doctor_App2\obj\Debug\Serialization.SerializationForm.resources
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\Doctor_App2\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\Doctor_App2\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\Doctor_Week 1\obj\Debug\Serialization.exe
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\Doctor_Week 1\obj\Debug\Serialization.pdb
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\Doctor_Week 1\bin\Debug\Serialization.exe
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\Doctor_Week 1\bin\Debug\Serialization.pdb
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\Doctor_Week 1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\Doctor_Week 1\obj\Debug\Serialization.Properties.Resources.resources
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\Doctor_Week 1\obj\Debug\Serialization.SerializationForm.resources
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\Doctor_Week 1\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\Doctor_Week 1\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\Doctor_Week 1\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\Doctor_Week 1\obj\Debug\GenerateResource-ResGen.write.4.tlog
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\Doctor_Week 1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\Doctor_Week 1\bin\Debug\Interop.TCPILib.dll
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\Doctor_Week 1\bin\Debug\Interop.WMEncoderLib.dll
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\Doctor_Week 1\bin\Debug\Interop.WMEncPrivateTlb.dll
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\Doctor_Week 1\bin\Debug\Interop.WMPLib.dll
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\Doctor_Week 1\obj\Debug\Serialization.exe
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\Doctor_Week 1\obj\Debug\Serialization.pdb
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\Doctor_Week 1\bin\Debug\Serialization.exe
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\Doctor_Week 1\bin\Debug\Serialization.pdb
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\Doctor_Week 1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\Doctor_Week 1\bin\Debug\Interop.TCPILib.dll
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\Doctor_Week 1\bin\Debug\Interop.WMEncoderLib.dll
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\Doctor_Week 1\bin\Debug\Interop.WMEncPrivateTlb.dll
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\Doctor_Week 1\bin\Debug\Interop.WMPLib.dll
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\Doctor_Week 1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\Doctor_Week 1\obj\Debug\Serialization.Properties.Resources.resources
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\Doctor_Week 1\obj\Debug\Serialization.SerializationForm.resources
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\Doctor_Week 1\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\Doctor_Week 1\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\Doctor_Week 1\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\Doctor_Week 1\obj\Debug\GenerateResource-ResGen.write.4.tlog
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\Doctor_041311\obj\Debug\Serialization.exe
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\Doctor_041311\obj\Debug\Serialization.pdb
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\Doctor_041311\bin\Debug\Serialization.exe
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\Doctor_041311\bin\Debug\Serialization.pdb
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\Doctor_041311\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\Doctor_041311\bin\Debug\Interop.TCPILib.dll
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\Doctor_041311\bin\Debug\Interop.WMEncoderLib.dll
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\Doctor_041311\bin\Debug\Interop.WMEncPrivateTlb.dll
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\Doctor_041311\bin\Debug\Interop.WMPLib.dll
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\Doctor_041311\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\Doctor_041311\obj\Debug\Serialization.Properties.Resources.resources
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\Doctor_041311\obj\Debug\Serialization.SerializationForm.resources
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\Doctor_041311\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\Doctor_041311\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\Doctor_041311\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\Doctor_041311\obj\Debug\GenerateResource-ResGen.write.4.tlog
+C:\Users\ClockReader\Dropbox\ShareWChih-Pin\Doctor_041311\obj\Debug\Serialization.exe
+C:\Users\ClockReader\Dropbox\ShareWChih-Pin\Doctor_041311\obj\Debug\Serialization.pdb
+C:\Users\chipin\Dropbox\ShareWChih-Pin\Doctor_041311\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\chipin\Dropbox\ShareWChih-Pin\Doctor_041311\obj\Debug\Serialization.Properties.Resources.resources
+C:\Users\chipin\Dropbox\ShareWChih-Pin\Doctor_041311\obj\Debug\Serialization.SerializationForm.resources
+C:\Users\chipin\Dropbox\ShareWChih-Pin\Doctor_041311\obj\Debug\ResGen.read.1.tlog
+C:\Users\chipin\Dropbox\ShareWChih-Pin\Doctor_041311\obj\Debug\ResGen.write.1.tlog
+C:\Users\chipin\Dropbox\ShareWChih-Pin\Doctor_041311\bin\Debug\Serialization.exe
+C:\Users\chipin\Dropbox\ShareWChih-Pin\Doctor_041311\bin\Debug\Serialization.pdb
+C:\Users\chipin\Dropbox\ShareWChih-Pin\Doctor_041311\obj\Debug\Serialization.exe
+C:\Users\chipin\Dropbox\ShareWChih-Pin\Doctor_041311\obj\Debug\Serialization.pdb
+C:\Users\chipin\Desktop\Doctor_041311\obj\Debug\Serialization.exe
+C:\Users\chipin\Desktop\Doctor_041311\obj\Debug\Serialization.pdb
+C:\Users\chipin\Desktop\Doctor_041311\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\chipin\Desktop\Doctor_041311\obj\Debug\Serialization.Properties.Resources.resources
+C:\Users\chipin\Desktop\Doctor_041311\obj\Debug\Serialization.SerializationForm.resources
+C:\Users\chipin\Desktop\Doctor_041311\obj\Debug\ResGen.read.1.tlog
+C:\Users\chipin\Desktop\Doctor_041311\obj\Debug\ResGen.write.1.tlog
+C:\Users\chipin\Desktop\Doctor_041311\bin\Debug\Serialization.exe
+C:\Users\chipin\Desktop\Doctor_041311\bin\Debug\Serialization.pdb
+C:\Users\Chipin\Desktop\Doctor\obj\Debug\Serialization.exe
+C:\Users\Chipin\Desktop\Doctor\obj\Debug\Serialization.pdb
+C:\Users\Chipin\Desktop\Doctor\bin\Debug\Serialization.exe
+C:\Users\Chipin\Desktop\Doctor\bin\Debug\Serialization.pdb
+C:\Users\Chipin\Desktop\Doctor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Chipin\Desktop\Doctor\obj\Debug\Serialization.Properties.Resources.resources
+C:\Users\Chipin\Desktop\Doctor\obj\Debug\Serialization.SerializationForm.resources
+C:\Users\Chipin\Desktop\Doctor\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Chipin\Desktop\Doctor\obj\Debug\ResGen.read.1.tlog
+C:\Users\Chipin\Desktop\Doctor\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Chipin\Desktop\Doctor\obj\Debug\ResGen.write.1.tlog

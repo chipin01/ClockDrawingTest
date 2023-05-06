@@ -1,0 +1,381 @@
+C:\Users\Young Suk Cho\Documents\Visual Studio 2008\Projects\CDT Week 3\CDT Week 3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Young Suk Cho\Documents\Visual Studio 2008\Projects\CDT Week 3\CDT Week 3\obj\Debug\CDT_Week_3.Properties.Resources.resources
+C:\Users\Young Suk Cho\Documents\Visual Studio 2008\Projects\CDT Week 3\CDT Week 3\obj\Debug\CDT Week 3.csproj.GenerateResource.Cache
+C:\Users\Young Suk Cho\Documents\Visual Studio 2008\Projects\CDT Week 3\CDT Week 3\bin\Debug\CDT Week 3.exe
+C:\Users\Young Suk Cho\Documents\Visual Studio 2008\Projects\CDT Week 3\CDT Week 3\bin\Debug\CDT Week 3.pdb
+C:\Users\Young Suk Cho\Documents\Visual Studio 2008\Projects\CDT Week 3\CDT Week 3\obj\Debug\CDT Week 3.exe
+C:\Users\Young Suk Cho\Documents\Visual Studio 2008\Projects\CDT Week 3\CDT Week 3\obj\Debug\CDT Week 3.pdb
+C:\Users\Young Suk Cho\Documents\Visual Studio 2008\Projects\CDT Week 3\CDT Week 3\obj\Debug\PaperForm.PaperForm.resources
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 3\CDT Week 3\obj\Debug\CDT Week 3.exe
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 3\CDT Week 3\obj\Debug\CDT Week 3.pdb
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 3\CDT Week 3\bin\Debug\CDT Week 3.exe
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 3\CDT Week 3\bin\Debug\CDT Week 3.pdb
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 3\CDT Week 3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 3\CDT Week 3\obj\Debug\PaperForm.PaperForm.resources
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 3\CDT Week 3\obj\Debug\CDT_Week_3.Properties.Resources.resources
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 3\CDT Week 3\obj\Debug\CDT Week 3.csproj.GenerateResource.Cache
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 3\CDT Week 3\bin\Release\CDT Week 3.exe
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 3\CDT Week 3\bin\Release\CDT Week 3.pdb
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 3\CDT Week 3\bin\Release\Microsoft.Ink.15.dll
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 3\CDT Week 3\bin\Release\Microsoft.Ink.15.resources.dll
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 3\CDT Week 3\bin\Release\Microsoft.Ink.dll
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 3\CDT Week 3\bin\Release\Microsoft.Ink.resources.dll
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 3\CDT Week 3\bin\Release\CDT Week 3.exe.manifest
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 3\CDT Week 3\bin\Release\CDT Week 3.application
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 3\CDT Week 3\obj\Debug\CDT Week 3.exe.manifest
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 3\CDT Week 3\obj\Debug\CDT Week 3.application
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 3\CDT Week 3\bin\Debug\CDT Week 3.exe.manifest
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 3\CDT Week 3\bin\Debug\CDT Week 3.application
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 4\CDT Week 3\obj\Debug\CDT Week 3.exe
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 4\CDT Week 3\obj\Debug\CDT Week 3.pdb
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 4\CDT Week 3\bin\Debug\CDT Week 3.exe.manifest
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 4\CDT Week 3\bin\Debug\CDT Week 3.application
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 4\CDT Week 3\bin\Debug\CDT Week 3.exe
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 4\CDT Week 3\bin\Debug\CDT Week 3.pdb
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 4\CDT Week 3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 4\CDT Week 3\obj\Debug\PaperForm.PaperForm.resources
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 4\CDT Week 3\obj\Debug\CDT_Week_3.Properties.Resources.resources
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 4\CDT Week 3\obj\Debug\CDT Week 3.csproj.GenerateResource.Cache
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 4\CDT Week 3\obj\Debug\CDT Week 3.exe.manifest
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 4\CDT Week 3\obj\Debug\CDT Week 3.application
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 5\CDT Week 3\obj\Debug\CDT Week 3.exe
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 5\CDT Week 3\obj\Debug\CDT Week 3.pdb
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 5\CDT Week 3\bin\Debug\CDT Week 3.exe.manifest
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 5\CDT Week 3\bin\Debug\CDT Week 3.application
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 5\CDT Week 3\bin\Debug\CDT Week 3.exe
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 5\CDT Week 3\bin\Debug\CDT Week 3.pdb
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 5\CDT Week 3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 5\CDT Week 3\obj\Debug\PaperForm.PaperForm.resources
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 5\CDT Week 3\obj\Debug\CDT_Week_3.Properties.Resources.resources
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 5\CDT Week 3\obj\Debug\CDT Week 3.csproj.GenerateResource.Cache
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 5\CDT Week 3\obj\Debug\CDT Week 3.exe.manifest
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 5\CDT Week 3\obj\Debug\CDT Week 3.application
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 5 - Temp\CDT Week 3\obj\Debug\CDT Week 3.exe
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 5 - Temp\CDT Week 3\obj\Debug\CDT Week 3.pdb
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 5 - Temp\CDT Week 3\bin\Debug\CDT Week 3.exe.manifest
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 5 - Temp\CDT Week 3\bin\Debug\CDT Week 3.application
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 5 - Temp\CDT Week 3\bin\Debug\CDT Week 3.exe
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 5 - Temp\CDT Week 3\bin\Debug\CDT Week 3.pdb
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 5 - Temp\CDT Week 3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 5 - Temp\CDT Week 3\obj\Debug\PaperForm.PaperForm.resources
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 5 - Temp\CDT Week 3\obj\Debug\CDT_Week_3.Properties.Resources.resources
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 5 - Temp\CDT Week 3\obj\Debug\CDT Week 3.csproj.GenerateResource.Cache
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 5 - Temp\CDT Week 3\obj\Debug\CDT Week 3.exe.manifest
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 5 - Temp\CDT Week 3\obj\Debug\CDT Week 3.application
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 6\CDT Week 3\obj\Debug\CDT Week 3.exe
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 6\CDT Week 3\obj\Debug\CDT Week 3.pdb
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 6\CDT Week 3\bin\Debug\CDT Week 3.exe.manifest
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 6\CDT Week 3\bin\Debug\CDT Week 3.application
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 6\CDT Week 3\bin\Debug\CDT Week 3.exe
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 6\CDT Week 3\bin\Debug\CDT Week 3.pdb
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 6\CDT Week 3\bin\Debug\Google.GData.Client.dll
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 6\CDT Week 3\bin\Debug\Google.GData.Extensions.dll
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 6\CDT Week 3\bin\Debug\Google.GData.Spreadsheets.dll
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 6\CDT Week 3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 6\CDT Week 3\obj\Debug\CDT_Week_3.Properties.Resources.resources
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 6\CDT Week 3\obj\Debug\CDT Week 3.csproj.GenerateResource.Cache
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 6\CDT Week 3\obj\Debug\CDT Week 3.exe.manifest
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 6\CDT Week 3\obj\Debug\CDT Week 3.application
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 6\CDT Week 3\obj\Debug\CDT_Week_3.PaperForm.resources
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 8\CDT Week 3\obj\Debug\CDT Week 3.exe
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 8\CDT Week 3\obj\Debug\CDT Week 3.pdb
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 8\CDT Week 3\bin\Debug\CDT Week 3.exe.manifest
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 8\CDT Week 3\bin\Debug\CDT Week 3.application
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 8\CDT Week 3\bin\Debug\CDT Week 3.exe
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 8\CDT Week 3\bin\Debug\CDT Week 3.pdb
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 8\CDT Week 3\bin\Debug\Google.GData.Client.dll
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 8\CDT Week 3\bin\Debug\Google.GData.Extensions.dll
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 8\CDT Week 3\bin\Debug\Google.GData.Spreadsheets.dll
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 8\CDT Week 3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 8\CDT Week 3\obj\Debug\CDT_Week_3.PaperForm.resources
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 8\CDT Week 3\obj\Debug\CDT_Week_3.Properties.Resources.resources
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 8\CDT Week 3\obj\Debug\CDT Week 3.csproj.GenerateResource.Cache
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 8\CDT Week 3\obj\Debug\CDT Week 3.exe.manifest
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 8\CDT Week 3\obj\Debug\CDT Week 3.application
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 10\CDT Week 3\obj\Debug\CDT Week 3.exe
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 10\CDT Week 3\obj\Debug\CDT Week 3.pdb
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 10\CDT Week 3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 10\CDT Week 3\obj\Debug\CDT_Week_3.PaperForm.resources
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 10\CDT Week 3\obj\Debug\CDT_Week_3.Properties.Resources.resources
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 10\CDT Week 3\obj\Debug\CDT Week 3.csproj.GenerateResource.Cache
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 10\CDT Week 3\bin\Debug\CDT Week 3.exe.manifest
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 10\CDT Week 3\bin\Debug\CDT Week 3.application
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 10\CDT Week 3\bin\Debug\CDT Week 3.exe
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 10\CDT Week 3\bin\Debug\CDT Week 3.pdb
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 10\CDT Week 3\bin\Debug\Google.GData.Client.dll
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 10\CDT Week 3\bin\Debug\Google.GData.Extensions.dll
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 10\CDT Week 3\bin\Debug\Google.GData.Spreadsheets.dll
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 10\CDT Week 3\obj\Debug\CDT Week 3.exe.manifest
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 10\CDT Week 3\obj\Debug\CDT Week 3.application
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 11\CDT Week 3\obj\Debug\CDT Week 3.exe
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 11\CDT Week 3\obj\Debug\CDT Week 3.pdb
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 11\CDT Week 3\bin\Debug\CDT Week 3.exe.manifest
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 11\CDT Week 3\bin\Debug\CDT Week 3.application
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 11\CDT Week 3\bin\Debug\CDT Week 3.exe
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 11\CDT Week 3\bin\Debug\CDT Week 3.pdb
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 11\CDT Week 3\bin\Debug\Google.GData.Client.dll
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 11\CDT Week 3\bin\Debug\Google.GData.Extensions.dll
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 11\CDT Week 3\bin\Debug\Google.GData.Spreadsheets.dll
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 11\CDT Week 3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 11\CDT Week 3\obj\Debug\CDT_Week_3.PaperForm.resources
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 11\CDT Week 3\obj\Debug\CDT_Week_3.Properties.Resources.resources
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 11\CDT Week 3\obj\Debug\CDT Week 3.csproj.GenerateResource.Cache
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 11\CDT Week 3\obj\Debug\CDT Week 3.exe.manifest
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 11\CDT Week 3\obj\Debug\CDT Week 3.application
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 12\CDT Week 3\obj\Debug\CDT Week 3.exe
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 12\CDT Week 3\obj\Debug\CDT Week 3.pdb
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 12\CDT Week 3\bin\Debug\CDT Week 3.exe.manifest
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 12\CDT Week 3\bin\Debug\CDT Week 3.application
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 12\CDT Week 3\bin\Debug\CDT Week 3.exe
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 12\CDT Week 3\bin\Debug\CDT Week 3.pdb
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 12\CDT Week 3\bin\Debug\Google.GData.Client.dll
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 12\CDT Week 3\bin\Debug\Google.GData.Extensions.dll
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 12\CDT Week 3\bin\Debug\Google.GData.Spreadsheets.dll
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 12\CDT Week 3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 12\CDT Week 3\obj\Debug\CDT_Week_3.PaperForm.resources
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 12\CDT Week 3\obj\Debug\CDT_Week_3.Properties.Resources.resources
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 12\CDT Week 3\obj\Debug\CDT Week 3.csproj.GenerateResource.Cache
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 12\CDT Week 3\obj\Debug\CDT Week 3.exe.manifest
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 12\CDT Week 3\obj\Debug\CDT Week 3.application
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 13\CDT Week 3\obj\Debug\CDT Week 3.exe
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 13\CDT Week 3\obj\Debug\CDT Week 3.pdb
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 13\CDT Week 3\bin\Debug\CDT Week 3.exe.manifest
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 13\CDT Week 3\bin\Debug\CDT Week 3.application
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 13\CDT Week 3\bin\Debug\CDT Week 3.exe
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 13\CDT Week 3\bin\Debug\CDT Week 3.pdb
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 13\CDT Week 3\bin\Debug\Google.GData.Client.dll
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 13\CDT Week 3\bin\Debug\Google.GData.Extensions.dll
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 13\CDT Week 3\bin\Debug\Google.GData.Spreadsheets.dll
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 13\CDT Week 3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 13\CDT Week 3\obj\Debug\CDT_Week_3.PaperForm.resources
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 13\CDT Week 3\obj\Debug\CDT_Week_3.Properties.Resources.resources
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 13\CDT Week 3\obj\Debug\CDT Week 3.csproj.GenerateResource.Cache
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 13\CDT Week 3\obj\Debug\CDT Week 3.exe.manifest
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 13\CDT Week 3\obj\Debug\CDT Week 3.application
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 14\CDT Week 3\obj\Debug\CDT Week 3.exe
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 14\CDT Week 3\obj\Debug\CDT Week 3.pdb
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 14\CDT Week 3\bin\Debug\CDT Week 3.exe.manifest
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 14\CDT Week 3\bin\Debug\CDT Week 3.application
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 14\CDT Week 3\bin\Debug\CDT Week 3.exe
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 14\CDT Week 3\bin\Debug\CDT Week 3.pdb
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 14\CDT Week 3\bin\Debug\Google.GData.Client.dll
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 14\CDT Week 3\bin\Debug\Google.GData.Extensions.dll
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 14\CDT Week 3\bin\Debug\Google.GData.Spreadsheets.dll
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 14\CDT Week 3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 14\CDT Week 3\obj\Debug\CDT_Week_3.PaperForm.resources
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 14\CDT Week 3\obj\Debug\CDT_Week_3.Properties.Resources.resources
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 14\CDT Week 3\obj\Debug\CDT Week 3.csproj.GenerateResource.Cache
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 14\CDT Week 3\obj\Debug\CDT Week 3.exe.manifest
+C:\Users\Young Suk Cho\Desktop\MSCS 2nd Semester\RA\CDT Project\CDT Week 14\CDT Week 3\obj\Debug\CDT Week 3.application
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 14\CDT Week 3\obj\Debug\CDT Week 3.exe
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 14\CDT Week 3\obj\Debug\CDT Week 3.pdb
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 14\CDT Week 3\bin\Debug\CDT Week 3.exe.manifest
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 14\CDT Week 3\bin\Debug\CDT Week 3.application
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 14\CDT Week 3\bin\Debug\CDT Week 3.exe
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 14\CDT Week 3\bin\Debug\CDT Week 3.pdb
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 14\CDT Week 3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 14\CDT Week 3\obj\Debug\CDT_Week_3.PaperForm.resources
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 14\CDT Week 3\obj\Debug\CDT_Week_3.Properties.Resources.resources
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 14\CDT Week 3\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 14\CDT Week 3\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 14\CDT Week 3\obj\Debug\CDT Week 3.exe.manifest
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 14\CDT Week 3\obj\Debug\CDT Week 3.application
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 14_1\CDT Week 3\obj\Debug\CDT Week 3.exe
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 14_1\CDT Week 3\obj\Debug\CDT Week 3.pdb
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 14_1\CDT Week 3\bin\Debug\CDT Week 3.exe.manifest
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 14_1\CDT Week 3\bin\Debug\CDT Week 3.application
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 14_1\CDT Week 3\bin\Debug\CDT Week 3.exe
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 14_1\CDT Week 3\bin\Debug\CDT Week 3.pdb
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 14_1\CDT Week 3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 14_1\CDT Week 3\obj\Debug\CDT_Week_3.PaperForm.resources
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 14_1\CDT Week 3\obj\Debug\CDT_Week_3.Properties.Resources.resources
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 14_1\CDT Week 3\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 14_1\CDT Week 3\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 14_1\CDT Week 3\obj\Debug\CDT Week 3.exe.manifest
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 14_1\CDT Week 3\obj\Debug\CDT Week 3.application
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 15_1\CDT Week 3\obj\Debug\CDT Week 3.exe
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 15_1\CDT Week 3\obj\Debug\CDT Week 3.pdb
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 15_1\CDT Week 3\bin\Debug\CDT Week 3.exe.manifest
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 15_1\CDT Week 3\bin\Debug\CDT Week 3.application
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 15_1\CDT Week 3\bin\Debug\CDT Week 3.exe
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 15_1\CDT Week 3\bin\Debug\CDT Week 3.pdb
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 15_1\CDT Week 3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 15_1\CDT Week 3\obj\Debug\CDT_Week_3.PaperForm.resources
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 15_1\CDT Week 3\obj\Debug\CDT_Week_3.Properties.Resources.resources
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 15_1\CDT Week 3\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 15_1\CDT Week 3\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 15_1\CDT Week 3\obj\Debug\CDT Week 3.exe.manifest
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 15_1\CDT Week 3\obj\Debug\CDT Week 3.application
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 15_1_CleanedUp\CDT Week 3\obj\Debug\CDT Week 3.exe
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 15_1_CleanedUp\CDT Week 3\obj\Debug\CDT Week 3.pdb
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 15_1_CleanedUp\CDT Week 3\bin\Debug\CDT Week 3.exe.manifest
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 15_1_CleanedUp\CDT Week 3\bin\Debug\CDT Week 3.application
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 15_1_CleanedUp\CDT Week 3\bin\Debug\CDT Week 3.exe
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 15_1_CleanedUp\CDT Week 3\bin\Debug\CDT Week 3.pdb
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 15_1_CleanedUp\CDT Week 3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 15_1_CleanedUp\CDT Week 3\obj\Debug\CDT_Week_3.PaperForm.resources
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 15_1_CleanedUp\CDT Week 3\obj\Debug\CDT_Week_3.Properties.Resources.resources
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 15_1_CleanedUp\CDT Week 3\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 15_1_CleanedUp\CDT Week 3\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 15_1_CleanedUp\CDT Week 3\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 15_1_CleanedUp\CDT Week 3\obj\Debug\GenerateResource-ResGen.write.4.tlog
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 15_1_CleanedUp\CDT Week 3\obj\Debug\CDT Week 3.exe.manifest
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 15_1_CleanedUp\CDT Week 3\obj\Debug\CDT Week 3.application
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 16_1\CDT Week 3\obj\Debug\CDT Week 3.exe
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 16_1\CDT Week 3\obj\Debug\CDT Week 3.pdb
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 16_1\CDT Week 3\bin\Debug\CDT Week 3.exe.manifest
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 16_1\CDT Week 3\bin\Debug\CDT Week 3.application
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 16_1\CDT Week 3\bin\Debug\CDT Week 3.exe
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 16_1\CDT Week 3\bin\Debug\CDT Week 3.pdb
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 16_1\CDT Week 3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 16_1\CDT Week 3\obj\Debug\CDT_Week_3.PaperForm.resources
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 16_1\CDT Week 3\obj\Debug\CDT_Week_3.Properties.Resources.resources
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 16_1\CDT Week 3\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 16_1\CDT Week 3\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 16_1\CDT Week 3\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 16_1\CDT Week 3\obj\Debug\GenerateResource-ResGen.write.4.tlog
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 16_1\CDT Week 3\obj\Debug\CDT Week 3.exe.manifest
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 16_1\CDT Week 3\obj\Debug\CDT Week 3.application
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 16_1\CDT Week 3\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 16_1\CDT Week 3\bin\Debug\Interop.TCPILib.dll
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 16_1\CDT Week 3\bin\Debug\Interop.WMEncoderLib.dll
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 16_1\CDT Week 3\bin\Debug\Interop.WMEncPrivateTlb.dll
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 16_1\CDT Week 3\bin\Debug\Interop.WMPLib.dll
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\obj\Debug\CDT Week 3.exe
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\obj\Debug\CDT Week 3.pdb
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\bin\Debug\CDT Week 3.exe.manifest
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\bin\Debug\CDT Week 3.application
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\bin\Debug\CDT Week 3.exe
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\bin\Debug\CDT Week 3.pdb
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\bin\Debug\Interop.TCPILib.dll
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\bin\Debug\Interop.WMEncoderLib.dll
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\bin\Debug\Interop.WMEncPrivateTlb.dll
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\bin\Debug\Interop.WMPLib.dll
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\obj\Debug\CDT_Week_3.PaperForm.resources
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\obj\Debug\CDT_Week_3.Properties.Resources.resources
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\obj\Debug\GenerateResource-ResGen.write.4.tlog
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\obj\Debug\CDT Week 3.exe.manifest
+C:\Users\Young Suk Cho\Desktop\MSCS 3rd Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\obj\Debug\CDT Week 3.application
+D:\MSCS 4th Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\obj\Debug\CDT Week 3.exe
+D:\MSCS 4th Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\obj\Debug\CDT Week 3.pdb
+D:\MSCS 4th Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\bin\Debug\CDT Week 3.exe.manifest
+D:\MSCS 4th Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\bin\Debug\CDT Week 3.application
+D:\MSCS 4th Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\bin\Debug\CDT Week 3.exe
+D:\MSCS 4th Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\bin\Debug\CDT Week 3.pdb
+D:\MSCS 4th Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\bin\Debug\AxInterop.WMPLib.dll
+D:\MSCS 4th Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\bin\Debug\Interop.TCPILib.dll
+D:\MSCS 4th Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\bin\Debug\Interop.WMEncoderLib.dll
+D:\MSCS 4th Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\bin\Debug\Interop.WMEncPrivateTlb.dll
+D:\MSCS 4th Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\bin\Debug\Interop.WMPLib.dll
+D:\MSCS 4th Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\obj\Debug\ResolveAssemblyReference.cache
+D:\MSCS 4th Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\obj\Debug\CDT_Week_3.PaperForm.resources
+D:\MSCS 4th Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\obj\Debug\CDT_Week_3.Properties.Resources.resources
+D:\MSCS 4th Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\MSCS 4th Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\obj\Debug\GenerateResource-ResGen.read.4.tlog
+D:\MSCS 4th Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\MSCS 4th Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\obj\Debug\GenerateResource-ResGen.write.4.tlog
+D:\MSCS 4th Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\obj\Debug\CDT Week 3.exe.manifest
+D:\MSCS 4th Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\obj\Debug\CDT Week 3.application
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\obj\Debug\CDT Week 3.exe
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\obj\Debug\CDT Week 3.pdb
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\bin\Debug\CDT Week 3.exe.manifest
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\bin\Debug\CDT Week 3.application
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\bin\Debug\CDT Week 3.exe
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\bin\Debug\CDT Week 3.pdb
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\bin\Debug\Interop.TCPILib.dll
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\bin\Debug\Interop.WMEncoderLib.dll
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\bin\Debug\Interop.WMEncPrivateTlb.dll
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\bin\Debug\Interop.WMPLib.dll
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\obj\Debug\CDT_Week_3.PaperForm.resources
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\obj\Debug\CDT_Week_3.Properties.Resources.resources
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\obj\Debug\GenerateResource-ResGen.write.4.tlog
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\obj\Debug\CDT Week 3.exe.manifest
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\CDT Week 16_1_2\CDT Week 3\obj\Debug\CDT Week 3.application
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\CDT_Intg_041411\CDT Week 3\obj\Debug\CDT Week 3.exe
+C:\Users\ClockReader\Desktop\MSCS 4th Semester\2nd Semester RA\CDT Project\CDT_Intg_041411\CDT Week 3\obj\Debug\CDT Week 3.pdb
+C:\Users\Young Suk Cho\Desktop\CDT_Intg_041411\CDT_Intg_041411\CDT Week 3\obj\Debug\CDT Week 3.exe
+C:\Users\Young Suk Cho\Desktop\CDT_Intg_041411\CDT_Intg_041411\CDT Week 3\obj\Debug\CDT Week 3.pdb
+C:\Users\Young Suk Cho\Desktop\CDT_Intg_041411\CDT_Intg_041411\CDT Week 3\bin\Debug\CDT Week 3.exe.manifest
+C:\Users\Young Suk Cho\Desktop\CDT_Intg_041411\CDT_Intg_041411\CDT Week 3\bin\Debug\CDT Week 3.application
+C:\Users\Young Suk Cho\Desktop\CDT_Intg_041411\CDT_Intg_041411\CDT Week 3\bin\Debug\CDT Week 3.exe
+C:\Users\Young Suk Cho\Desktop\CDT_Intg_041411\CDT_Intg_041411\CDT Week 3\bin\Debug\CDT Week 3.pdb
+C:\Users\Young Suk Cho\Desktop\CDT_Intg_041411\CDT_Intg_041411\CDT Week 3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Young Suk Cho\Desktop\CDT_Intg_041411\CDT_Intg_041411\CDT Week 3\obj\Debug\CDT_Week_3.PaperForm.resources
+C:\Users\Young Suk Cho\Desktop\CDT_Intg_041411\CDT_Intg_041411\CDT Week 3\obj\Debug\CDT_Week_3.Properties.Resources.resources
+C:\Users\Young Suk Cho\Desktop\CDT_Intg_041411\CDT_Intg_041411\CDT Week 3\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Young Suk Cho\Desktop\CDT_Intg_041411\CDT_Intg_041411\CDT Week 3\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Users\Young Suk Cho\Desktop\CDT_Intg_041411\CDT_Intg_041411\CDT Week 3\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Young Suk Cho\Desktop\CDT_Intg_041411\CDT_Intg_041411\CDT Week 3\obj\Debug\GenerateResource-ResGen.write.4.tlog
+C:\Users\Young Suk Cho\Desktop\CDT_Intg_041411\CDT_Intg_041411\CDT Week 3\obj\Debug\CDT Week 3.exe.manifest
+C:\Users\Young Suk Cho\Desktop\CDT_Intg_041411\CDT_Intg_041411\CDT Week 3\obj\Debug\CDT Week 3.application
+C:\Users\ClockReader\Desktop\CDT_Intg_050511\CDT Week 3\obj\Debug\CDT Week 3.exe
+C:\Users\ClockReader\Desktop\CDT_Intg_050511\CDT Week 3\obj\Debug\CDT Week 3.pdb
+C:\Users\ClockReader\Desktop\CDT_Intg_050511\CDT Week 3\bin\Debug\CDT Week 3.exe.manifest
+C:\Users\ClockReader\Desktop\CDT_Intg_050511\CDT Week 3\bin\Debug\CDT Week 3.application
+C:\Users\ClockReader\Desktop\CDT_Intg_050511\CDT Week 3\bin\Debug\CDT Week 3.exe
+C:\Users\ClockReader\Desktop\CDT_Intg_050511\CDT Week 3\bin\Debug\CDT Week 3.pdb
+C:\Users\ClockReader\Desktop\CDT_Intg_050511\CDT Week 3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ClockReader\Desktop\CDT_Intg_050511\CDT Week 3\obj\Debug\CDT_Week_3.PaperForm.resources
+C:\Users\ClockReader\Desktop\CDT_Intg_050511\CDT Week 3\obj\Debug\CDT_Week_3.Properties.Resources.resources
+C:\Users\ClockReader\Desktop\CDT_Intg_050511\CDT Week 3\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\ClockReader\Desktop\CDT_Intg_050511\CDT Week 3\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Users\ClockReader\Desktop\CDT_Intg_050511\CDT Week 3\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\ClockReader\Desktop\CDT_Intg_050511\CDT Week 3\obj\Debug\GenerateResource-ResGen.write.4.tlog
+C:\Users\ClockReader\Desktop\CDT_Intg_050511\CDT Week 3\obj\Debug\CDT Week 3.exe.manifest
+C:\Users\ClockReader\Desktop\CDT_Intg_050511\CDT Week 3\obj\Debug\CDT Week 3.application
+C:\Users\Chipin\Desktop\CDT_Intg_050511\CDT_Intg_050511\CDT Week 3\bin\Debug\CDT Week 3.exe.manifest
+C:\Users\Chipin\Desktop\CDT_Intg_050511\CDT_Intg_050511\CDT Week 3\bin\Debug\CDT Week 3.application
+C:\Users\Chipin\Desktop\CDT_Intg_050511\CDT_Intg_050511\CDT Week 3\bin\Debug\CDT Week 3.exe
+C:\Users\Chipin\Desktop\CDT_Intg_050511\CDT_Intg_050511\CDT Week 3\bin\Debug\CDT Week 3.pdb
+C:\Users\Chipin\Desktop\CDT_Intg_050511\CDT_Intg_050511\CDT Week 3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Chipin\Desktop\CDT_Intg_050511\CDT_Intg_050511\CDT Week 3\obj\Debug\CDT_Week_3.PaperForm.resources
+C:\Users\Chipin\Desktop\CDT_Intg_050511\CDT_Intg_050511\CDT Week 3\obj\Debug\CDT_Week_3.Properties.Resources.resources
+C:\Users\Chipin\Desktop\CDT_Intg_050511\CDT_Intg_050511\CDT Week 3\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Chipin\Desktop\CDT_Intg_050511\CDT_Intg_050511\CDT Week 3\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Users\Chipin\Desktop\CDT_Intg_050511\CDT_Intg_050511\CDT Week 3\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Chipin\Desktop\CDT_Intg_050511\CDT_Intg_050511\CDT Week 3\obj\Debug\GenerateResource-ResGen.write.4.tlog
+C:\Users\Chipin\Desktop\CDT_Intg_050511\CDT_Intg_050511\CDT Week 3\obj\Debug\CDT Week 3.exe.manifest
+C:\Users\Chipin\Desktop\CDT_Intg_050511\CDT_Intg_050511\CDT Week 3\obj\Debug\CDT Week 3.application
+C:\Users\Chipin\Desktop\CDT_Intg_050511\CDT_Intg_050511\CDT Week 3\obj\Debug\CDT Week 3.exe
+C:\Users\Chipin\Desktop\CDT_Intg_050511\CDT_Intg_050511\CDT Week 3\obj\Debug\CDT Week 3.pdb
+C:\Users\Chipin\Desktop\CDT\CDT Week 3\bin\Debug\CDT Week 3.exe.manifest
+C:\Users\Chipin\Desktop\CDT\CDT Week 3\bin\Debug\CDT Week 3.application
+C:\Users\Chipin\Desktop\CDT\CDT Week 3\bin\Debug\CDT Week 3.exe
+C:\Users\Chipin\Desktop\CDT\CDT Week 3\bin\Debug\CDT Week 3.pdb
+C:\Users\Chipin\Desktop\CDT\CDT Week 3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Chipin\Desktop\CDT\CDT Week 3\obj\Debug\CDT_Week_3.PaperForm.resources
+C:\Users\Chipin\Desktop\CDT\CDT Week 3\obj\Debug\CDT_Week_3.Properties.Resources.resources
+C:\Users\Chipin\Desktop\CDT\CDT Week 3\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Chipin\Desktop\CDT\CDT Week 3\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Users\Chipin\Desktop\CDT\CDT Week 3\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Chipin\Desktop\CDT\CDT Week 3\obj\Debug\GenerateResource-ResGen.write.4.tlog
+C:\Users\Chipin\Desktop\CDT\CDT Week 3\obj\Debug\CDT Week 3.exe.manifest
+C:\Users\Chipin\Desktop\CDT\CDT Week 3\obj\Debug\CDT Week 3.application
+C:\Users\Chipin\Desktop\CDT\CDT Week 3\obj\Debug\CDT Week 3.exe
+C:\Users\Chipin\Desktop\CDT\CDT Week 3\obj\Debug\CDT Week 3.pdb
+C:\Users\Chipin\Desktop\CDT2\CDT Week 3\bin\Debug\CDT Week 3.exe.manifest
+C:\Users\Chipin\Desktop\CDT2\CDT Week 3\bin\Debug\CDT Week 3.application
+C:\Users\Chipin\Desktop\CDT2\CDT Week 3\bin\Debug\CDT Week 3.exe
+C:\Users\Chipin\Desktop\CDT2\CDT Week 3\bin\Debug\CDT Week 3.pdb
+C:\Users\Chipin\Desktop\CDT2\CDT Week 3\bin\Debug\Interop.WMEncoderLib.dll
+C:\Users\Chipin\Desktop\CDT2\CDT Week 3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Chipin\Desktop\CDT2\CDT Week 3\obj\Debug\CDT_Week_3.PaperForm.resources
+C:\Users\Chipin\Desktop\CDT2\CDT Week 3\obj\Debug\CDT_Week_3.Properties.Resources.resources
+C:\Users\Chipin\Desktop\CDT2\CDT Week 3\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Chipin\Desktop\CDT2\CDT Week 3\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Chipin\Desktop\CDT2\CDT Week 3\obj\Debug\CDT Week 3.exe.manifest
+C:\Users\Chipin\Desktop\CDT2\CDT Week 3\obj\Debug\CDT Week 3.application
+C:\Users\Chipin\Desktop\CDT2\CDT Week 3\obj\Debug\CDT Week 3.exe
+C:\Users\Chipin\Desktop\CDT2\CDT Week 3\obj\Debug\CDT Week 3.pdb
+C:\Users\Chipin\Desktop\CDT2\CDT Week 3\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Users\Chipin\Desktop\CDT2\CDT Week 3\obj\Debug\GenerateResource-ResGen.write.4.tlog
